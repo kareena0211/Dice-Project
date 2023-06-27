@@ -10,20 +10,13 @@ body{
     
 }
 
-/* .container{
-    background-image: url(./image/bg1.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-} */
 
 h1{
     font-size: 3.5rem;
     text-align: center;
     text-shadow: 5px 5px wheat;
-
-   
 }
+
 .dice-box{
     width: 70%;
     height: 20rem;
